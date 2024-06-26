@@ -1,7 +1,7 @@
 # choropleth_map_animated
 An simple animated map with Python. This animation shows how solar irradiance levels change monthly within each "Departamento" in the Colombian Caribbean Region.
 
-Remember create your toke in www.mapbox.com
+Remember create your free token in www.mapbox.com
 
 The code is organized as follows:
 1. Ingestion of the data as a layer (irradiation in the Colombian Caribbean Coast)
